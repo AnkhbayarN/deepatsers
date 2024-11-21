@@ -6,7 +6,7 @@ The generated spectra were measured using a portable Raman Spectroscopic Apparat
 These spectra are located in the Original dataset folder.
 
 Data Extraction:
-Data extracted using EMSA, Gaussian noise, and GAN techniques are available in the augmentation folder.
+Data extracted using EMSA, Gaussian noise, and GAN techniques are available in the Augmented dataset folder.
 
 Clinical Samples:
 Clinical samples were collected over 5 consecutive days from two patients confirmed to have COVID-19 through PCR testing.
