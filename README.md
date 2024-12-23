@@ -9,7 +9,7 @@ Data Extraction:
 Data extracted using EMSA, Gaussian noise, and GAN techniques are available in the Augmented dataset folder.
 
 Independent Samples:
-The independent samples collected over 5 consecutive days are located in the Original dataset folder.
+Independent SERS spectra of SARS-CoV-2 antigen from seven different concentrations of Omicron
 
 Data Augmentation:
 The data augmentation was performed using a generative neural network.
